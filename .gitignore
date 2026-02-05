@@ -1,0 +1,8 @@
+# Sensitive files
+ops-channels.json
+scripts/
+
+# OS/editor artifacts
+.DS_Store
+*.swp
+*~
